@@ -19,8 +19,13 @@ MonoBehaviour:
     height: 685
   m_ShowMode: 4
   m_Title: 
+<<<<<<< HEAD
   m_RootView: {fileID: 8}
   m_MinSize: {x: 950, y: 542}
+=======
+  m_RootView: {fileID: 10}
+  m_MinSize: {x: 950, y: 300}
+>>>>>>> Mete's Save
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -36,6 +41,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 726
     y: 0
     width: 363
@@ -45,6 +51,17 @@ MonoBehaviour:
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
+=======
+    x: 818
+    y: 0
+    width: 204
+    height: 441
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
+  m_ActualView: {fileID: 16}
+  m_Panes:
+  - {fileID: 16}
+>>>>>>> Mete's Save
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &3
@@ -59,11 +76,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children:
+<<<<<<< HEAD
   - {fileID: 7}
+=======
+  - {fileID: 8}
+>>>>>>> Mete's Save
   - {fileID: 2}
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 364
     width: 1089
     height: 271
@@ -71,6 +93,15 @@ MonoBehaviour:
   m_MaxSize: {x: 14006, y: 10021}
   vertical: 0
   controlID: 203
+=======
+    y: 0
+    width: 1022
+    height: 441
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
+  vertical: 0
+  controlID: 109
+>>>>>>> Mete's Save
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -85,6 +116,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 816
     y: 0
     width: 273
@@ -94,6 +126,17 @@ MonoBehaviour:
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
+=======
+    x: 0
+    y: 0
+    width: 667
+    height: 290
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 18}
+  m_Panes:
+  - {fileID: 18}
+>>>>>>> Mete's Save
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &5
@@ -108,18 +151,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children:
+<<<<<<< HEAD
   - {fileID: 11}
   - {fileID: 6}
+=======
+  - {fileID: 4}
+  - {fileID: 9}
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 30
-    width: 1366
-    height: 635
-  m_MinSize: {x: 713, y: 492}
-  m_MaxSize: {x: 18008, y: 14042}
+    y: 441
+    width: 1022
+    height: 290
+  m_MinSize: {x: 434, y: 271}
+  m_MaxSize: {x: 14004, y: 10021}
   vertical: 0
-  controlID: 147
+  controlID: 68
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -128,23 +175,32 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
-  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Children: []
+  m_Children:
+  - {fileID: 13}
+  - {fileID: 7}
+>>>>>>> Mete's Save
   m_Position:
     serializedVersion: 2
-    x: 1089
-    y: 0
-    width: 277
+    x: 0
+    y: 30
+<<<<<<< HEAD
+    width: 1366
     height: 635
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 15}
-  m_Panes:
-  - {fileID: 15}
-  m_Selected: 0
-  m_LastSelected: 0
+  m_MinSize: {x: 713, y: 492}
+  m_MaxSize: {x: 18008, y: 14042}
+  vertical: 0
+  controlID: 147
+--- !u!114 &6
+=======
+    width: 1536
+    height: 731
+  m_MinSize: {x: 711, y: 492}
+  m_MaxSize: {x: 18006, y: 14042}
+  vertical: 0
+  controlID: 30
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -159,6 +215,70 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+    x: 1022
+    y: 0
+    width: 514
+    height: 731
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 15}
+  m_Panes:
+  - {fileID: 15}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &8
+>>>>>>> Mete's Save
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+<<<<<<< HEAD
+    width: 277
+    height: 635
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 15}
+=======
+    width: 818
+    height: 441
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 17}
+>>>>>>> Mete's Save
+  m_Panes:
+  - {fileID: 17}
+  m_Selected: 0
+  m_LastSelected: 0
+<<<<<<< HEAD
+--- !u!114 &7
+=======
+--- !u!114 &9
+>>>>>>> Mete's Save
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+<<<<<<< HEAD
     x: 0
     y: 0
     width: 726
@@ -166,11 +286,24 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 18}
+=======
+    x: 667
+    y: 0
+    width: 355
+    height: 290
+  m_MinSize: {x: 234, y: 271}
+  m_MaxSize: {x: 10004, y: 10021}
+  m_ActualView: {fileID: 14}
+>>>>>>> Mete's Save
   m_Panes:
-  - {fileID: 18}
+  - {fileID: 14}
   m_Selected: 0
   m_LastSelected: 0
+<<<<<<< HEAD
 --- !u!114 &8
+=======
+--- !u!114 &10
+>>>>>>> Mete's Save
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -182,18 +315,32 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children:
+<<<<<<< HEAD
   - {fileID: 9}
   - {fileID: 5}
   - {fileID: 10}
+=======
+  - {fileID: 11}
+  - {fileID: 6}
+  - {fileID: 12}
+>>>>>>> Mete's Save
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1366
     height: 685
   m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &9
+=======
+    width: 1536
+    height: 781
+  m_MinSize: {x: 950, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &11
+>>>>>>> Mete's Save
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -209,12 +356,20 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1366
+=======
+    width: 1536
+>>>>>>> Mete's Save
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
   m_LastLoadedLayoutName: 
+<<<<<<< HEAD
 --- !u!114 &10
+=======
+--- !u!114 &12
+>>>>>>> Mete's Save
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -229,12 +384,21 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 665
     width: 1366
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
 --- !u!114 &11
+=======
+    y: 761
+    width: 1536
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+--- !u!114 &13
+>>>>>>> Mete's Save
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -246,12 +410,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children:
+<<<<<<< HEAD
   - {fileID: 12}
   - {fileID: 3}
+=======
+  - {fileID: 3}
+  - {fileID: 5}
+>>>>>>> Mete's Save
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1089
     height: 635
   m_MinSize: {x: 436, y: 492}
@@ -307,6 +477,14 @@ MonoBehaviour:
   - {fileID: 17}
   m_Selected: 0
   m_LastSelected: 0
+=======
+    width: 1022
+    height: 731
+  m_MinSize: {x: 434, y: 492}
+  m_MaxSize: {x: 14004, y: 14042}
+  vertical: 1
+  controlID: 108
+>>>>>>> Mete's Save
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -327,10 +505,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 728
     y: 456
     width: 359
     height: 250
+=======
+    x: 669
+    y: 533
+    width: 351
+    height: 269
+>>>>>>> Mete's Save
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -344,36 +529,46 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts/Scriptable Objects/Rooms/Level 3
-  m_ViewMode: 0
+    - Assets
+  m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
+<<<<<<< HEAD
   m_LastProjectPath: C:\Users\Eugen\Desktop\Text_Adventure\DungeonAdventures
+=======
+  m_LastProjectPath: C:\Users\Lenovo Legion Y520\Desktop\Text_Adventures\DungeonAdventures
+>>>>>>> Mete's Save
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 6e290000
     m_LastClickedID: 10606
     m_ExpandedIDs: 000000006e290000c02c0000c22c000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: f6080000
+    m_LastClickedID: 2294
+    m_ExpandedIDs: 00000000f6080000b42c0000b62c000000ca9a3bffffff7f
+>>>>>>> Mete's Save
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Mete's Scripts
+      m_OriginalName: Mete's Scripts
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 11520
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 9}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -385,7 +580,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000006e290000c02c0000c22c0000
+=======
+    m_ExpandedIDs: 00000000f6080000b42c0000b62c0000
+>>>>>>> Mete's Save
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -401,7 +600,11 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
+<<<<<<< HEAD
       m_ClientGUIView: {fileID: 2}
+=======
+      m_ClientGUIView: {fileID: 0}
+>>>>>>> Mete's Save
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -412,8 +615,13 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
+=======
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000e609000000000000
+>>>>>>> Mete's Save
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -429,7 +637,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 9}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -437,9 +645,13 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 347}
     m_GridSize: 64
+<<<<<<< HEAD
   m_DirectoriesAreaWidth: 115
+=======
+  m_DirectoriesAreaWidth: 231
+>>>>>>> Mete's Save
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -460,10 +672,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1091
     y: 92
     width: 275
     height: 614
+=======
+    x: 1024
+    y: 92
+    width: 512
+    height: 710
+>>>>>>> Mete's Save
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
@@ -494,6 +713,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 818
     y: 92
     width: 269
@@ -504,25 +724,37 @@ MonoBehaviour:
     m_SelectedIDs: 002e0000
     m_LastClickedID: 0
     m_ExpandedIDs: 3c57fffff2cbffffe0ecffff30fbffff000000008a2c0000
+=======
+    x: 820
+    y: 92
+    width: 200
+    height: 420
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 4c090000
+    m_LastClickedID: 0
+    m_ExpandedIDs: 584bfbfff04efbffa2b6fdff360afeffce18feff66bbfefff6bcfeffe483ffff649afffff0fbffff00000000100c0000
+>>>>>>> Mete's Save
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Canvas
+      m_OriginalName: Canvas
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 3088
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 2}
     m_SearchString: 
   m_ExpandedScenes:
-  - Main
+  - Main Menu
   m_CurrenRootInstanceID: 0
   m_LockTracker:
     m_IsLocked: 0
@@ -549,18 +781,32 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 92
+<<<<<<< HEAD
     width: 814
     height: 343
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
   lastFramingTime: 133.7950544280579
+=======
+    width: 816
+    height: 420
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SceneLighting: 1
+  lastFramingTime: 3709.116407171653
+>>>>>>> Mete's Save
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 444.93936, y: 67.18475, z: 8.116713}
     speed: 2
     m_Value: {x: 444.93936, y: 67.18475, z: 8.116713}
+=======
+    m_Target: {x: 339.40546, y: 126.9119, z: 0}
+    speed: 2
+    m_Value: {x: 339.40546, y: 126.9119, z: 0}
+>>>>>>> Mete's Save
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -592,9 +838,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
     m_Target: 443.43213
     speed: 2
     m_Value: 443.43213
+=======
+    m_Target: 368.9512
+    speed: 2
+    m_Value: 368.9512
+>>>>>>> Mete's Save
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -627,9 +879,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 456
     width: 724
     height: 250
+=======
+    y: 533
+    width: 665
+    height: 269
+>>>>>>> Mete's Save
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
@@ -639,10 +897,17 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
+<<<<<<< HEAD
     m_HBaseRangeMin: -362
     m_HBaseRangeMax: 362
     m_VBaseRangeMin: -116.5
     m_VBaseRangeMax: 116.5
+=======
+    m_HBaseRangeMin: -332.5
+    m_HBaseRangeMax: 332.5
+    m_VBaseRangeMin: -126
+    m_VBaseRangeMax: 126
+>>>>>>> Mete's Save
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -659,25 +924,43 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
+<<<<<<< HEAD
       width: 724
       height: 233
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 362, y: 116.5}
+=======
+      width: 665
+      height: 252
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 332.5, y: 126}
+>>>>>>> Mete's Save
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
       x: -362
       y: -116.5
       width: 724
       height: 233
+=======
+      x: -332.5
+      y: -126
+      width: 665
+      height: 252
+>>>>>>> Mete's Save
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
+<<<<<<< HEAD
   m_LastWindowPixelSize: {x: 724, y: 250}
+=======
+  m_LastWindowPixelSize: {x: 665, y: 269}
+>>>>>>> Mete's Save
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
