@@ -20,6 +20,9 @@ MonoBehaviour:
   - keyString: east
     exitDescription: There seems to be a door to the east.
     valueRoom: {fileID: 11400000, guid: 847c9b31f132af44097ab3dee18e8a1f, type: 2}
+  - keyString: south
+    exitDescription: There seems to be a door to the east.
+    valueRoom: {fileID: 11400000, guid: 847c9b31f132af44097ab3dee18e8a1f, type: 2}
   interactableObjectsInRoom:
   - {fileID: 11400000, guid: e3e9967e286c793429d2b72cd50c0144, type: 2}
   - {fileID: 11400000, guid: 689101e4cbdf5294d9c7f37d1d1ecd80, type: 2}
