@@ -3,7 +3,7 @@ git clone <link> // Clones files from website
 
 git status // To see which files need to be added (in red)
 
-git add . && git add -u .//Add the red text after add
+git add all//Add the red text after add
 
 git commit -m "Type Text Here" // Say what you changed
 
