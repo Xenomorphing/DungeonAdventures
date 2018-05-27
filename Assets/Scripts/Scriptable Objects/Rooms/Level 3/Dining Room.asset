@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Dining Room
   m_EditorClassIdentifier: 
   description: You enter a larger space with a wooden floor
-  roomName: 
+  roomName: dining room
   exits:
   - keyString: south
     exitDescription: The entrance that you came through is south

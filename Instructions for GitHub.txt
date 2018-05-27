@@ -12,3 +12,16 @@ git push // Send everything to website
 git pull // Takes files you dont have
 
 git rm "File Name" // Remove files before pushings
+
+Instructions for using github when partner is not around:
+1. Git pull // Before you do anything
+2. Git fetch --all //again
+3. Git status 
+4. Git add --all 
+
+If cannot merge do: Git pull --rebase
+type: git add -- all // for all errors
+and then: git rebase --continue
+
+If you messed up on something and dont want to mess up more run this command:
+git reset --hard origin

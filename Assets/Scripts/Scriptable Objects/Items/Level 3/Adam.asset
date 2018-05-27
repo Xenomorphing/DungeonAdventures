@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f8fad02b0f00b214fbe628be116137fa, type: 3}
   m_Name: Adam
   m_EditorClassIdentifier: 
-  noun: name
+  noun: adam
   description: '"Again? Ok. You seem to have come at a good time. To leave the garden
     you need to do a job for me. M''names Adam by the way."'
   interactions:

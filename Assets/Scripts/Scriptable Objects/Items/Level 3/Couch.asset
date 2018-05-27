@@ -11,6 +11,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f8fad02b0f00b214fbe628be116137fa, type: 3}
   m_Name: Couch
   m_EditorClassIdentifier: 
-  noun: name
+  noun: couch
   description: A couch sits in the corner of the room
   interactions: []
