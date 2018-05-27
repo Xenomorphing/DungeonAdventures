@@ -11,5 +11,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e77aa8789d3ed2488553a363570be03, type: 3}
   m_Name: CrownOnStand
   m_EditorClassIdentifier: 
-  requiredString: throne
+  requiredString: hall2
   roomToChangeTo: {fileID: 11400000, guid: 0eb5d3ff279e5a84fbea9d92e5b55b5e, type: 2}

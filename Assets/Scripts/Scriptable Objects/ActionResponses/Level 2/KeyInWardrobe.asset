@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Name: KeyInWardrobe
   m_EditorClassIdentifier: 
   requiredString: hall
-  roomToChangeTo: {fileID: 11400000, guid: 662a485c514a01e45a0172d3fc5f30ff, type: 2}
+  roomToChangeTo: {fileID: 11400000, guid: abd647b2ef5595041bd8e198481f95a8, type: 2}

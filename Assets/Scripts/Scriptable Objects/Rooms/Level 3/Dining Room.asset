@@ -11,7 +11,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 247637cb33b4bfe4cbc5cc5969cb38eb, type: 3}
   m_Name: Dining Room
   m_EditorClassIdentifier: 
-  description: 
+  description: You enter a larger space with a wooden floor
   roomName: 
-  exits: []
+  exits:
+  - keyString: 
+    exitDescription: 
+    valueRoom: {fileID: 0}
   interactableObjectsInRoom: []
