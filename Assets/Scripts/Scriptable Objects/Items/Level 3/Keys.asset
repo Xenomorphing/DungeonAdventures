@@ -15,10 +15,11 @@ MonoBehaviour:
   description: 
   interactions:
   - inputAction: {fileID: 11400000, guid: 1cc0c65ce0b0c49469d7ba5c0d8928e6, type: 2}
-    textResponse: 
+    textResponse: Looks like a normal set of keys, except, they all look the same
+      to you.
     actionResponse: {fileID: 0}
   - inputAction: {fileID: 11400000, guid: 0d7a8569322ad934d8c03752709c5ecf, type: 2}
-    textResponse: 
+    textResponse: '*Jingle* *Jingle*'
     actionResponse: {fileID: 0}
   - inputAction: {fileID: 0}
     textResponse: 

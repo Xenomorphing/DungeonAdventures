@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8fad02b0f00b214fbe628be116137fa, type: 3}
+  m_Name: Adam
+  m_EditorClassIdentifier: 
+  noun: name
+  description: '"Again? Ok. You seem to have come at a good time. To leave the garden
+    you need to do a job for me. M''names Adam by the way."'
+  interactions:
+  - inputAction: {fileID: 11400000, guid: 1cc0c65ce0b0c49469d7ba5c0d8928e6, type: 2}
+    textResponse: '"What kind of job?"
+
+
+      "Well I seem to have a rat problem. A big one. It''s up in the attic and I need
+      it out of the house, if you can do that you may leave the area and be on your
+      way"'
+    actionResponse: {fileID: 0}

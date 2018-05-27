@@ -11,6 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f8fad02b0f00b214fbe628be116137fa, type: 3}
   m_Name: Table
   m_EditorClassIdentifier: 
-  noun: name
-  description: Description in room
+  noun: Table
+  description: You see a table in the middle of the room a shelf to the side and a
+    painting on the wall
   interactions: []

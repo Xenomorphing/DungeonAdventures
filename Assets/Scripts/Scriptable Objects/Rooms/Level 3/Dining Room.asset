@@ -14,7 +14,12 @@ MonoBehaviour:
   description: You enter a larger space with a wooden floor
   roomName: 
   exits:
-  - keyString: 
-    exitDescription: 
-    valueRoom: {fileID: 0}
-  interactableObjectsInRoom: []
+  - keyString: south
+    exitDescription: The entrance that you came through is south
+    valueRoom: {fileID: 11400000, guid: 1820d46e24afbd941a9f5acce39eed13, type: 2}
+  interactableObjectsInRoom:
+  - {fileID: 11400000, guid: 9d1b13e0edf54f74fbcdd8d9498367a5, type: 2}
+  - {fileID: 11400000, guid: 3083a047a123cb34f83c033d829c8903, type: 2}
+  - {fileID: 11400000, guid: 8672be13347636d448221ff7d7e52fc6, type: 2}
+  - {fileID: 11400000, guid: 9686327628f00f74fb4be45fb99e2425, type: 2}
+  - {fileID: 11400000, guid: c5a138b86da286549ac915c6dc88665b, type: 2}

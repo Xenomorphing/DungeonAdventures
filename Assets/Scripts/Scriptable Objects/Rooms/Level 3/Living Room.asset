@@ -11,7 +11,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 247637cb33b4bfe4cbc5cc5969cb38eb, type: 3}
   m_Name: Living Room
   m_EditorClassIdentifier: 
-  description: 
+  description: 'You seem to have stumbled into a living room
+
+    "Who are you" screams an unfamiliar voice
+
+    "I mean no harm, I was teleported here"
+
+'
   roomName: 
   exits: []
   interactableObjectsInRoom: []
