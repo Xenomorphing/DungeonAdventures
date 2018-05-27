@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8fad02b0f00b214fbe628be116137fa, type: 3}
+  m_Name: Crown
+  m_EditorClassIdentifier: 
+  noun: crown
+  description: A crown sits gently on a pillow in the wardrobe. Hang on. Wasn't there
+    a stand on top of the throne?
+  interactions:
+  - inputAction: {fileID: 11400000, guid: 1cc0c65ce0b0c49469d7ba5c0d8928e6, type: 2}
+    textResponse: A very fragile crown made of pure silver
+    actionResponse: {fileID: 0}
+  - inputAction: {fileID: 11400000, guid: 0d7a8569322ad934d8c03752709c5ecf, type: 2}
+    textResponse: You genlty pick up the crown
+    actionResponse: {fileID: 0}
+  - inputAction: {fileID: 11400000, guid: 75703fef47eab154eba628a3f84e5ae2, type: 2}
+    textResponse: 
+    actionResponse: {fileID: 11400000, guid: dcd7f93f4e5b3cc48822c356a44db132, type: 2}

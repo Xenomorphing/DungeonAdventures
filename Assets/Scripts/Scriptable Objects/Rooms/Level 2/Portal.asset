@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 247637cb33b4bfe4cbc5cc5969cb38eb, type: 3}
+  m_Name: Portal
+  m_EditorClassIdentifier: 
+  description: You place the crown on the stand. Suddenly the room becomes blinding,
+    you feel as though your eyeballs would burn out. It ends as suddenly as it happened
+    and a few minutes pass before you open your eyes.
+  roomName: portal
+  exits:
+  - keyString: portal
+    exitDescription: A portal, covering the room in warm light, is open in front of
+      you
+    valueRoom: {fileID: 11400000, guid: 1820d46e24afbd941a9f5acce39eed13, type: 2}
+  interactableObjectsInRoom: []

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 247637cb33b4bfe4cbc5cc5969cb38eb, type: 3}
+  m_Name: Wardrobe
+  m_EditorClassIdentifier: 
+  description: You slot the key into the keyhole. Nothing happens. You try to pull
+    it out but it's stuck. You try turning it and the door opens.
+  roomName: hall
+  exits:
+  - keyString: throne
+    exitDescription: 
+    valueRoom: {fileID: 11400000, guid: 67976aa95c28f874d9f60db3325b1c2f, type: 2}
+  interactableObjectsInRoom:
+  - {fileID: 11400000, guid: 1bdfee69a1daef141a5cf1c2baefd839, type: 2}

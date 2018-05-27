@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e77aa8789d3ed2488553a363570be03, type: 3}
+  m_Name: CrownOnStand
+  m_EditorClassIdentifier: 
+  requiredString: throne
+  roomToChangeTo: {fileID: 11400000, guid: 0eb5d3ff279e5a84fbea9d92e5b55b5e, type: 2}

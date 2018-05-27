@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 247637cb33b4bfe4cbc5cc5969cb38eb, type: 3}
+  m_Name: Staircase
+  m_EditorClassIdentifier: 
+  description: A dim lit staircase leads up to a door that is slightly ajar.
+  roomName: staircase
+  exits:
+  - keyString: door
+    exitDescription: 
+    valueRoom: {fileID: 11400000, guid: dded9b4f9949b274ab7087af1a393ce0, type: 2}
+  - keyString: back
+    exitDescription: You could go back now
+    valueRoom: {fileID: 11400000, guid: ec71253a71bfecc42b3d9724c40ec445, type: 2}
+  interactableObjectsInRoom: []
