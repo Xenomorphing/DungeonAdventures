@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Food
   m_EditorClassIdentifier: 
   noun: food
-  description: You see platters of food on the table.
+  description: Platters of food are set on the table
   interactions:
   - inputAction: {fileID: 11400000, guid: 1cc0c65ce0b0c49469d7ba5c0d8928e6, type: 2}
     textResponse: Looks tasty, too bad you're not hungry.
@@ -22,4 +22,4 @@ MonoBehaviour:
     actionResponse: {fileID: 0}
   - inputAction: {fileID: 11400000, guid: 75703fef47eab154eba628a3f84e5ae2, type: 2}
     textResponse: Looks tasty, too bad you're not hungry.
-    actionResponse: {fileID: 0}
+    actionResponse: {fileID: 11400000, guid: 2fa52aa042528b54a850d66f5887aa06, type: 2}

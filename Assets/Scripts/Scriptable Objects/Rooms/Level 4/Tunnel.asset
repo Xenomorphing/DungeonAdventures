@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 247637cb33b4bfe4cbc5cc5969cb38eb, type: 3}
   m_Name: Tunnel
   m_EditorClassIdentifier: 
-  description: 
-  roomName: 
+  description: As soon as you pass the gate you see a long dark tunnel.
+  roomName: tunnel
   exits: []
   interactableObjectsInRoom: []

@@ -28,7 +28,7 @@ MonoBehaviour:
     valueRoom: {fileID: 11400000, guid: 267abbad2f7c7b04fb8eb843b59874d2, type: 2}
   - keyString: south
     exitDescription: There is an exit out of the house to the south.
-    valueRoom: {fileID: 11400000, guid: 1820d46e24afbd941a9f5acce39eed13, type: 2}
+    valueRoom: {fileID: 11400000, guid: 162771119309174459c9723542e770ca, type: 2}
   interactableObjectsInRoom:
   - {fileID: 11400000, guid: ed0a95e404ce6444897654a8c3a753ea, type: 2}
   - {fileID: 11400000, guid: 443ff391b1dd08743aef7d6bad551e08, type: 2}

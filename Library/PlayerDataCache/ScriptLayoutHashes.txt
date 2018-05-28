@@ -2,6 +2,7 @@ WindowsStandalone
 PlayerPath?
 C:/Users/Eugen/Desktop/Text_Adventure/Build/Build.exe
 SceneListBegin?
+Assets/Main Menu.unity
 Assets/Main.unity
 SceneListEnd?
 50c5d3ffbdecfef214041ddec5935115 Assembly-CSharp.dll:.TextInput
@@ -157,3 +158,4 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 1fc89e0acc9cc5e9219b3a2a4cf0f994 Assembly-CSharp.dll:.Room
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 6d779861eb0cf50357eff25b43b88301 Assembly-CSharp.dll:.Examine
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MainMenu

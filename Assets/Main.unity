@@ -440,6 +440,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a46d98b5b2d15b849a046a2ccec522bd, type: 2}
   - {fileID: 11400000, guid: 1c0ffa50899948d40a53bc70ddccb2bf, type: 2}
   - {fileID: 11400000, guid: 1bdfee69a1daef141a5cf1c2baefd839, type: 2}
+  - {fileID: 11400000, guid: 9d1b13e0edf54f74fbcdd8d9498367a5, type: 2}
+  - {fileID: 11400000, guid: 3083a047a123cb34f83c033d829c8903, type: 2}
   nounsInRoom: []
 --- !u!114 &1726616189
 MonoBehaviour:
@@ -464,7 +466,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0108e55f9c2c954f9a2448ff4948378, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentRoom: {fileID: 11400000, guid: 8167919ab3b19b743bfc7774d148db1a, type: 2}
+  currentRoom: {fileID: 11400000, guid: 1820d46e24afbd941a9f5acce39eed13, type: 2}
 --- !u!114 &1726616191
 MonoBehaviour:
   m_ObjectHideFlags: 0

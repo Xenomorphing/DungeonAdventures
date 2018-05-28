@@ -21,6 +21,6 @@ MonoBehaviour:
   - inputAction: {fileID: 11400000, guid: 0d7a8569322ad934d8c03752709c5ecf, type: 2}
     textResponse: '*Jingle* *Jingle*'
     actionResponse: {fileID: 0}
-  - inputAction: {fileID: 0}
+  - inputAction: {fileID: 11400000, guid: 75703fef47eab154eba628a3f84e5ae2, type: 2}
     textResponse: 
-    actionResponse: {fileID: 0}
+    actionResponse: {fileID: 11400000, guid: 6b1abdde7ee69f24e810a2e6c737b1fa, type: 2}
